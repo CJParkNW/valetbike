@@ -66,6 +66,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'mysql2'
 gem 'jquery-rails'
 
+
+#Map Gems
+gem 'leaflet-rails'
+
 # Suggested Potentially Useful Gems
 # gem 'devise'
 # gem 'httparty'
